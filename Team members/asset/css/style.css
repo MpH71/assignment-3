@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+}
+body{
+    background-color: springgreen;
+}
+.team1{
+    width: 33.33%;
+    height: 400px;
+    background-color: #000;
+    overflow: hidden;
+    text-align: center;
+    float: left;
+
+}
+.team1 img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 10px;
+}
+.team1 h2{
+    font-family: Berlin Sans FB Demi;
+    text-align: center;
+    font-size: 30px;
+    color: rgb(204, 17, 17);
+}
+.team1 p{
+    width: 80%;
+    color: rgb(75, 226, 45);
+    margin: 10px auto;
+}
+.team2{
+    width: 33.33%;
+    height: 400px;
+    background-color: #000;
+    overflow: hidden;
+    text-align: center;
+    float: left;
+    margin-top: 8px;
+
+}
+.team2 img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+.team2 h2{
+    font-family: Berlin Sans FB Demi;
+    text-align: center;
+    font-size: 30px;
+    color: rgb(204, 17, 17);
+}
+.team2 p{
+    width: 80%;
+    color: rgb(75, 226, 45);
+    margin: 10px auto;
+}
